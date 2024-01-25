@@ -13,9 +13,9 @@ while (true) {
 
     if (n.length > 0) {
 	alert("what if...HAHAHAH");
-	alert("what if crush teka");
-        alert("What if dle nani atik2");
-        alert('What if kita nalang:(');
+	alert("what if crush teka:)");
+        alert("What if ... ");
+        alert('What if kita nalang:)');
         alert('Lablots' + n + 'huhuhuhu');
         main.style.display = 'block';
         break;
