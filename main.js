@@ -3,7 +3,7 @@ const cancel = document.querySelector('.cancel');
 const msg = document.querySelector('#msg');
 
 while (true) {
-    let n = "JANELLE";
+    let n = " Timmy ko ";
     
     if(n == null) {
         main.style.display = "none";
@@ -16,7 +16,7 @@ while (true) {
 	alert("what if crush teka");
         alert("What if dle nani atik2");
         alert('What if kita nalang:(');
-        alert('apas na lagi tas pasko' + n + 'huhuhuhu');
+        alert('Lablots' + n + 'huhuhuhu');
         main.style.display = 'block';
         break;
     }
